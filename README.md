@@ -124,12 +124,18 @@ I occasionally write about my learning journey and tech insights:
 ## 🎬 Fun Facts
 
 - 🎥 Favorite movie genre: Heist films (The Italian Job, Ocean's Eleven)
-- 🎵 Coding playlist: Lo-fi beats to code to
 - 🧠 Problem-solving approach: "First make it work, then make it beautiful"
 - 🌍 Languages: English, Amharic, Afaan Oromoo
 
 ---
+## 🎵 Coding Playlists  
 
+**For Focus & Worship:**  
+- 🎧 [*"Christian Lo-Fi | Beats to Pray/Code To"*](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Peaceful instrumentals with faith-inspired melodies)*  
+- 🎹 [*"Scripture Lofi"*](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Bible verses over calming beats)*  
+- 🙌 [*"Worship Coding Flow"*](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Uplifting hymns in lofi style)*  
+
+*"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23  
 ## 📫 Let's Connect
 
 <div align="center">
