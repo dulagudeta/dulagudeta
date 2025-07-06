@@ -74,10 +74,6 @@
 
 ### 🎨 Portfolio Website
 **My personal showcase of projects and skills**
-- Clean, responsive design
-- Project case studies
-- Contact form functionality
-- **Tech Stack:** HTML, CSS, JavaScript, Netlify
 
 🔗 [Live Portfolio](https://dulagudeta.netlify.app)
 
