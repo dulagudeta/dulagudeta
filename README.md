@@ -129,11 +129,11 @@ I occasionally write about my learning journey and tech insights:
 
 ---
 ## 🎵 Coding Playlists  
+**For Focus & Worship:** 
+- 🎧 [*"Christian Lo-Fi | Beats to Pray/Code To"*](https://www.youtube.com/watch?v=8Jb2Xl6KbsY) *(Peaceful piano/guitar with subtle Scripture whispers)*  
+- 🎹 [*"Scripture Lofi (Psalms & Proverbs)"*](https://www.youtube.com/watch?v=6OQAHq6Wl8I) *(ESV audio over jazzhop beats - perfect for deep work)*  
+- 🙌 [*"Worship Coding Flow"*](https://www.youtube.com/watch?v=JV-e5KL4W_c) *(Modern hymns in ambient lofi style - Bethel/Hillsong inspired)*  
 
-**For Focus & Worship:**  
-- 🎧 [*"Christian Lo-Fi | Beats to Pray/Code To"*](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Peaceful instrumentals with faith-inspired melodies)*  
-- 🎹 [*"Scripture Lofi"*](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Bible verses over calming beats)*  
-- 🙌 [*"Worship Coding Flow"*](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(Uplifting hymns in lofi style)*  
 
 *"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23  
 ## 📫 Let's Connect
