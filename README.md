@@ -131,8 +131,8 @@ I occasionally write about my learning journey and tech insights:
 ## 🎵 Coding Playlists  
 **For Focus & Worship:** 
 - 🎧 [*"Christian Lo-Fi | Beats to Pray/Code To"*](https://youtu.be/6cVHKr13tQg?si=6SU7f2DN7zuE_RoH) *(Peaceful piano/guitar with subtle Scripture whispers)*  
-- 🎹 [*"Scripture Lofi (Psalms & Proverbs)"*]([https://www.youtube.com/watch?v=6OQAHq6Wl8I](https://youtu.be/p_-IBpGFmGw?si=gccLqpIJj2QS0YY7)) *(ESV audio over jazzhop beats - perfect for deep work)*  
-- 🙌 [*"Worship Coding Flow"*]([https://www.youtube.com/watch?v=JV-e5KL4W_c](https://youtu.be/Xx1MjhzKcYw?si=HNS8g7ln_61_M4jK)) *(Modern hymns in ambient lofi style - Bethel/Hillsong inspired)*  
+- 🎹 [*"Scripture Lofi (Psalms & Proverbs)"*](https://youtu.be/p_-IBpGFmGw?si=gccLqpIJj2QS0YY7) *(ESV audio over jazzhop beats - perfect for deep work)*  
+- 🙌 [*"Worship Coding Flow"*](https://youtu.be/Xx1MjhzKcYw?si=HNS8g7ln_61_M4jK) *(Modern hymns in ambient lofi style - Bethel/Hillsong inspired)*  
 
 
 *"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23  
