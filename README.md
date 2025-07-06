@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend Developer | python programmer</h3>
 
 <p align="center">
-  <a href="https://dulagudeta.netlify.app" target="_blank">
+  <a href="https://dulagudetatad.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/dula-gudeta-6057232b6" target="_blank">
@@ -140,7 +140,7 @@ I occasionally write about my learning journey and tech insights:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dulagudeta.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dulagudetatad.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dula-gudeta-6057232b6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dulagudeta22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dulagudeta)
