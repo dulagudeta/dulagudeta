@@ -48,13 +48,6 @@
 
 ---
 
-### 🎨 Portfolio Website
-**My personal showcase of projects and skills**
-
-🔗 [Live Portfolio](https://dulagudeta.netlify.app)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
