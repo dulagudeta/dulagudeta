@@ -70,15 +70,6 @@
 - **Machine Learning Basics** (Python, TensorFlow)
 
 ---
-
-
-## 🎬 Fun Facts
-
-- 🎥 Favorite movie genre: Heist films (The Italian Job, Ocean's Eleven)
-- 🧠 Problem-solving approach: "First make it work, then make it beautiful"
-- 🌍 Languages: English, Amharic, Afaan Oromoo
-
----
 ## 🎵 Coding Playlists  
 **For Focus & Worship:** 
 - 🎧 [*"Christian Lo-Fi | Beats to Pray/Code To"*](https://youtu.be/6cVHKr13tQg?si=6SU7f2DN7zuE_RoH) *(Peaceful piano/guitar with subtle Scripture whispers)*  
@@ -92,9 +83,6 @@
 **Want to collaborate or chat?** Feel free to [email me](mailto:dulagudeta22@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/dula-gudeta-6057232b6).
 
 ---
-
-> "First, solve the problem. Then, write the code."  
-> — John Johnson
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dulagudeta&label=Profile%20views&color=0e75b6&style=flat" alt="dulagudeta" />
