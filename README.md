@@ -67,17 +67,26 @@
 
 ## 📊 GitHub Stats
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dulagudeta&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=issues&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+  
+  <!-- Streak Stats Card - Fixed URL -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=dulagudeta&theme=merko&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=DD2727" alt="GitHub Streak" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulagudeta&layout=compact&theme=merko&hide_border=true&langs_count=6" alt="Top Languages" />
+
+</div>
+
+<!-- Activity Graph - Proper Markdown Syntax -->
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=dulagudeta&theme=radical&hide_border=true)
-  
-  ![Dula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulagudeta&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulagudeta&layout=compact&theme=radical&hide_border=true)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dulagudeta&theme=merko&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&radius=16)](https://github.com/dulagudeta)
   
 </div>
 
----
 
 ## 🌱 Currently Learning
 
