@@ -48,31 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 Multilingual Job Portal
-**A platform connecting job seekers and employers in multiple languages**
-- Supports English, Afaan Oromoo, and አማርኛ
-- Admin dashboard with analytics
-- Real-time application tracking system
-- **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap
-
-🔗 [Live Demo](https://dgjobportal.infinityfreeapp.com) | 
-📂 [GitHub Repo](https://github.com/dulagudeta/OnlineJobPortal)
-
----
-
-### 🤖 Telegram Feedback Bot
-**Multi-language anonymous feedback collector**
-- Supports English, Amharic, and Afan Oromo
-- Stores feedback in SQLite database
-- Easy-to-use interface
-- **Tech Stack:** Python, SQLite, Telegram Bot API
-
-📂 [GitHub Repo](https://github.com/dulagudeta/Feedback-telegram-bot)
-
----
-
 ### 🎨 Portfolio Website
 **My personal showcase of projects and skills**
 
