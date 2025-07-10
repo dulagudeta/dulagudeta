@@ -87,16 +87,9 @@
 
 
 *"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23  
-## 📫 Let's Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dulagudetatad.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dula-gudeta-6057232b6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dulagudeta22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dulagudeta)
-
-</div>
+### 🤝 Reach Out  
+**Want to collaborate or chat?** Feel free to [email me](mailto:dulagudeta22@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/dula-gudeta-6057232b6).
 
 ---
 
