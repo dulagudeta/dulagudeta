@@ -71,24 +71,6 @@
 
 ---
 
-## 🎯 2025 Goals
-
-| Goal Category | Specific Objectives |
-|--------------|---------------------|
-| **Open Source** | Contribute to 5+ meaningful OSS projects |
-| **Backend Expertise** | Master system design patterns |
-| **Cloud Skills** | Get AWS Certified |
-
-
----
-
-## 📚 Blog & Writing
-
-I occasionally write about my learning journey and tech insights:
-
-- [COMING SOON](#)
-
----
 
 ## 🎬 Fun Facts
 
