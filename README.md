@@ -88,8 +88,6 @@
 - **Advanced Backend Architecture** (Microservices, API Design)
 - **Cloud Native Development** (AWS, Serverless)
 - **DevOps Practices** (CI/CD Pipelines, Infrastructure as Code)
-- **Machine Learning Basics** (Python, TensorFlow)
-
 ---
 ## 🎵 Coding Playlists  
 **For Focus & Worship:** 
