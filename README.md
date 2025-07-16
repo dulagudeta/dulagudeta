@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Dula Gudeta</h1>
-<h3 align="center">Software Engineer | Backend Developer | python programmer</h3>
+<h3 align="center">Software Engineer | Web Developer | python programmer</h3>
 
 <p align="center">
   <a href="https://dulagudeta.netlify.app" target="_blank">
