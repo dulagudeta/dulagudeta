@@ -56,13 +56,7 @@ Hi there! I'm a passionate **software engineer** who thrives at building clean, 
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dulagudeta&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=issues&custom_title=My%20GitHub%20Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dulagudeta&theme=merko&hide_border=true&fire=DD2727&ring=DD2727" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulagudeta&layout=compact&theme=merko&hide_border=true&langs_count=6" />
-</div>
-
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dulagudeta&show_icons=true&theme=merko&hide_title=true&hide_border=true&count_private=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=dulagudeta&theme=merko&hide_border=true" width="47%" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulagudeta&layout=compact&theme=merko&hide_border=true&langs_count=6" width="47%" /> </div>
 
 ---
 ## 🌱 Currently Exploring
