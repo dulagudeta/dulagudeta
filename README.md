@@ -62,11 +62,7 @@ Hi there! I'm a passionate **software engineer** who thrives at building clean, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulagudeta&layout=compact&theme=merko&hide_border=true&langs_count=6" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/dulagudeta">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulagudeta&theme=merko&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&radius=16" />
-  </a>
-</div>
+
 
 ---
 ## 🌱 Currently Exploring
