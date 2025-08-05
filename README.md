@@ -40,14 +40,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dulagudeta&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dulagudeta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
