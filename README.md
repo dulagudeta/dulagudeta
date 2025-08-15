@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://dulagudetatad.netlify.app" target="_blank">
+  <a href="https://dulagudeta.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/dula-gudeta-6057232b6" target="_blank">
