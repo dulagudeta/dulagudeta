@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Dula Gudeta</h1>
 <h3 align="center">Software Engineer • Backend Developer • Django+RESTAPI+React</h3>
 
-
 <p align="center">
   <a href="https://dulagudeta.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
@@ -21,21 +20,22 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulagudeta&show_icons=true&theme=dark&count_private=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dulagudeta&theme=dark&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulagudeta&layout=compact&theme=dark&hide_border=true&langs_count=6" width="47%" />
-</p>
-
----
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dulagudeta&show_icons=true&theme=radical" alt="stats" style="width: 48%; max-width: 400px;" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=dulagudeta&theme=radical" alt="GitHub Streak" style="width: 48%; max-width: 400px;" />
+  </div>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dulagudeta&theme=radical" alt="Top Languages by Repo" style="width: 48%; max-width: 400px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dulagudeta&theme=radical" alt="Most Commit Language" style="width: 48%; max-width: 400px;" />
+  </div>
+</div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulagudeta&theme=onedark&column=6&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dulagudeta&theme=onedark&column=6&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 ---
