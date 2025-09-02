@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dula Gudeta</h1>
-<h3 align="center">Software Engineer • Backend Developer • Django Enthusiast</h3>
+<h3 align="center">Software Engineer • Backend Developer • Django+RESTAPI+React</h3>
 
 
 <p align="center">
