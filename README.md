@@ -1,17 +1,7 @@
-<h1 align="center">👋 Hi, I'm Dula Gudeta</h1>
+<h1 align="center"> I'm Dula Gudeta</h1>
 <h3 align="center">Software Engineer • Backend Developer • Django+RESTAPI • GO</h3>
 
-<p align="center">
-  <a href="https://dulagudeta.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dula-gudeta-6057232b6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dulagudeta22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+
 
 ---
 
@@ -29,10 +19,17 @@
   </div>
 </div>
 
-## 🏆 GitHub Trophies
-
+---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulagudeta&theme=onedark&column=6&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <a href="https://dulagudeta.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dula-gudeta-6057232b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dulagudeta22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
